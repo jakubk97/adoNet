@@ -1,0 +1,5 @@
+C:\Users\Kuba\Desktop\muzyka\muzyka\bin\Debug\muzyka.exe
+C:\Users\Kuba\Desktop\muzyka\muzyka\bin\Debug\muzyka.pdb
+C:\Users\Kuba\Desktop\muzyka\muzyka\obj\Debug\muzyka.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\muzyka\muzyka\obj\Debug\muzyka.exe
+C:\Users\Kuba\Desktop\muzyka\muzyka\obj\Debug\muzyka.pdb
